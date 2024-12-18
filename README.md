@@ -1,7 +1,7 @@
 # do_an_2024
 web bán vé xem phim
 
-1 link github : https://github.com/Mirai3103/movie-ticket
+1 link github gốc project cinema : https://github.com/Mirai3103/movie-ticket
 
 2 link dowload driver web bán vé + database: 
 
